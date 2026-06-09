@@ -433,7 +433,6 @@ nav a.white:hover{
     top: 0;
     left: 0;
     background-size: contain;
-    background-position-y: 0;
 }
 #stages .mobile #carousel{
     position: relative;
@@ -737,7 +736,7 @@ footer section p{
     }
 
     footer section{
-        padding: 40px 20px 60px 20px;
+        padding: 40px 0 60px 0;
     }
 }
 @media (max-width: 600px) {
