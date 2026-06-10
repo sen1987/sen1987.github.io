@@ -176,7 +176,7 @@ section{
 /* Header  */
 
 header{
-    background: center 0 repeat-x url(img/bg.png);
+    background: center repeat-x url(img/bg.png);
     background-color: #E9DED4;
 }
 header section{
@@ -587,7 +587,8 @@ footer section p{
         width: min(100% - 40px, 640px);
     }
     header {
-        background: center no-repeat url(img/bg2.png);
+        background-image: url(img/bg2.png);
+        background-repeat: no-repeat;
         background-size: cover;
     }
     header section{
