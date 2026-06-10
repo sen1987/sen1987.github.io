@@ -176,7 +176,7 @@ section{
 /* Header  */
 
 header{
-    background: center repeat-x url(img/bg.png);
+    background: center 0 repeat-x url(img/bg.png);
     background-color: #E9DED4;
 }
 header section{
